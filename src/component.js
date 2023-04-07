@@ -1,1 +1,1 @@
-export let message = "Hello World";
+export let message = "Webpack is working";
